@@ -17,4 +17,4 @@ if ( num_third > max )
     max = num_third;
 }
 
-Console.WriteLine($"наибольшее число: " + max);
+Console.WriteLine("наибольшее число: " + max);
